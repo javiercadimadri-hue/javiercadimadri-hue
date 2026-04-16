@@ -14,7 +14,7 @@
   <br/><br/>
   
   <h2>💻 Programador Web & Técnico Informático</h2>
-  <p>Desarrollador de 19 años en formación (DAW) con experiencia en automatización de procesos.</p>
+  <p>Desarrollador en formación (DAW) con experiencia en automatización de procesos.</p>
   <p>Actualmente en <b>Bit-Technologies Gmbh</b> trabajando con n8n, Oracle NetSuite ERP y JavaScript.</p>
   
   ---
@@ -36,6 +36,6 @@
   ---
 
   <br/>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0077B5&width=435&lines=Si+lo+poedes+imaginar,+lo+poedes+crear." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0077B5&width=435&lines=Si+lo+puedes+imaginar,+lo+puedes+crear." alt="Typing SVG" />
 
 </div>
