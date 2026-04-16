@@ -1,40 +1,43 @@
 <div align="center">
   
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0077B5&height=150&section=header&text=¡Hola,%20soy%20Javier%20Abadia!%20👋&fontSize=50&animation=fadeIn&fontAlignY=35" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0077B5&height=150&section=header&text=Javier%20Abadia%20Alfaro%20👋&fontSize=50&animation=fadeIn&fontAlignY=35" width="100%" />
 
   <br/>
 
   <a href="https://www.linkedin.com/in/javier-abadia-alfaro">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:javiercadimadri2@gmail.com">
-    <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   
   <br/><br/>
   
-  <h2>🚀 Full Stack Developer </h2>
-  <p>Desarrollador enfocado en soluciones eficientes y automatización de procesos empresariales.</p>
-  <p>Basado en **Madrid, España**. Apasionado por la integración de IA y sistemas ERP.</p>
+  <h2>💻 Programador Web & Técnico Informático</h2>
+  <p>Tengo 19 años y soy un desarrollador en formación con gran interés por aprender y aplicar mis conocimientos en el mundo laboral.</p>
+  <p>Actualmente trabajando con <b>n8n, Oracle NetSuite ERP y JavaScript</b> en Bit-Technologies Gmbh.</p>
   
   ---
 
-  <h2>🛠️ Mi Stack Tecnológico</h2>
+  <h2>🛠️ Conocimientos Técnicos</h2>
 
-  <h3>Backend Power 🔥</h3>
-  <img src="https://skillicons.dev/icons?i=java,spring,python,mysql,mongodb&theme=dark" />
+  <h3>Desarrollo Frontend 🎨</h3>
+  <img src="https://skillicons.dev/icons?i=js,html,css,bootstrap&theme=dark" />
   
-  <h3>Frontend Magic ✨</h3>
-  <img src="https://skillicons.dev/icons?i=js,html,css,sass,bootstrap&theme=dark" />
+  <h3>Desarrollo Backend & DB ⚙️</h3>
+  <img src="https://skillicons.dev/icons?i=java,spring,mysql&theme=dark" />
   
-  <h3>Herramientas y Automatización ⚙️</h3>
-  <img src="https://skillicons.dev/icons?i=git,linux,figma&theme=dark" />
+  <h3>Herramientas de Trabajo 🛠️</h3>
+  <img src="https://skillicons.dev/icons?i=git,linux,vscode&theme=dark" />
+  
+  <br/>
+
   <img src="https://img.shields.io/badge/n8n-FF6D5A?style=for-the-badge&logo=n8n&logoColor=white" />
-  <img src="https://img.shields.io/badge/NetSuite-003366?style=for-the-badge&logo=oracle&logoColor=white" />
+  <img src="https://img.shields.io/badge/NetSuite_ERP-003366?style=for-the-badge&logo=oracle&logoColor=white" />
 
   ---
 
   <br/>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0077B5&width=435&lines=Escribo+código+limpio;automatizo+procesos;creo+soluciones." alt="Typing SVG" />
+  <p><i>"Si lo puedes imaginar, lo puedes crear."</i></p>
 
 </div>
