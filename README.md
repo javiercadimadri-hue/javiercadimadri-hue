@@ -14,30 +14,28 @@
   <br/><br/>
   
   <h2>💻 Programador Web & Técnico Informático</h2>
-  <p>Tengo 19 años y soy un desarrollador en formación con gran interés por aprender y aplicar mis conocimientos en el mundo laboral.</p>
-  <p>Actualmente trabajando con <b>n8n, Oracle NetSuite ERP y JavaScript</b> en Bit-Technologies Gmbh.</p>
+  <p>Desarrollador de 19 años en formación (DAW) con experiencia en automatización de procesos.</p>
+  <p>Actualmente en <b>Bit-Technologies Gmbh</b> trabajando con n8n, Oracle NetSuite ERP y JavaScript.</p>
   
   ---
 
   <h2>🛠️ Conocimientos Técnicos</h2>
 
-  <h3>Desarrollo Frontend 🎨</h3>
-  <img src="https://skillicons.dev/icons?i=js,html,css,bootstrap&theme=dark" />
+  <h3>Lenguajes y Backend ⚙️</h3>
+  <img src="https://skillicons.dev/icons?i=java,spring,js,python,mysql&theme=dark" />
   
-  <h3>Desarrollo Backend & DB ⚙️</h3>
-  <img src="https://skillicons.dev/icons?i=java,spring,mysql&theme=dark" />
-  
-  <h3>Herramientas de Trabajo 🛠️</h3>
-  <img src="https://skillicons.dev/icons?i=git,linux,vscode&theme=dark" />
+  <h3>Tecnologías y Herramientas 🛠️</h3>
+  <img src="https://skillicons.dev/icons?i=html,css,git,linux,vscode&theme=dark" />
   
   <br/>
 
+  <img src="https://img.shields.io/badge/API_REST-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
   <img src="https://img.shields.io/badge/n8n-FF6D5A?style=for-the-badge&logo=n8n&logoColor=white" />
   <img src="https://img.shields.io/badge/NetSuite_ERP-003366?style=for-the-badge&logo=oracle&logoColor=white" />
 
   ---
 
   <br/>
-  <p><i>"Si lo puedes imaginar, lo puedes crear."</i></p>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0077B5&width=435&lines=Si+lo+poedes+imaginar,+lo+poedes+crear." alt="Typing SVG" />
 
 </div>
