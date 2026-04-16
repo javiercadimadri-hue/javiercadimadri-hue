@@ -1,7 +1,9 @@
 <div align="center">
   
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0077B5&height=150&section=header&text=Javier%20Abadia%20Alfaro%20👋&fontSize=50&animation=fadeIn&fontAlignY=35" width="100%" />
-
+  <p align="center">
+    <img src="https://capsule-render.vercel.app/api?type=slice&color=0077B5&height=200&section=header&text=Javier%20Abadia%20Alfaro&fontSize=70&fontColor=fff&animation=twinkling&fontAlignY=35&rotate=10" width="100%" />
+  </p>
+  
   <br/>
 
   <a href="https://www.linkedin.com/in/javier-abadia-alfaro" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="mailto:javiercadimadri2@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
