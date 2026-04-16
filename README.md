@@ -1,6 +1,6 @@
 <div align="center">
   
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=Javier%20Abadia%20Alfaro%20👋&fontSize=50&animation=scaleIn&fontAlignY=35" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=Javier%20Abadia%20Alfaro%20👋&fontSize=50&animation=glint&fontAlignY=35" width="100%" />
 
   <br/>
 
