@@ -20,19 +20,6 @@ Soy un desarrollador de **Valdemoro, Madrid**, apasionado por crear soluciones p
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
----
-
-### 📈 Mis Estadísticas de GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=javiercadimadri-hue&show_icons=true&theme=radical&hide_border=true" alt="Estadísticas de Javier" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=javiercadimadri-hue&layout=compact&theme=radical&hide_border=true" alt="Lenguajes más usados" />
-</p>
-
----
 
 ### 🚀 Sobre mí y mi experiencia
 - 🏢 **Bit-Technologies Gmbh**: Desarrollador enfocado en automatizaciones con **n8n**, Oracle NetSuite ERP y JavaScript.
