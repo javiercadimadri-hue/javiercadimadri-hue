@@ -1,7 +1,7 @@
 <div align="center">
   
   <p align="center">
-    <img src="https://capsule-render.vercel.app/api?type=slice&color=0077B5&height=200&section=header&text=Javier%20Abadia%20Alfaro&fontSize=70&fontColor=fff&animation=twinkling&fontAlignY=35&rotate=10" width="100%" />
+    <img src="https://capsule-render.vercel.app/api?type=rounded&color=gradient&height=180&section=header&text=Javier%20Abadia%20Alfaro&fontSize=70&animation=fadeIn&fontAlignY=35" width="100%" />
   </p>
   
   <br/>
