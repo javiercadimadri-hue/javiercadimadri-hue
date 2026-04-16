@@ -17,20 +17,13 @@
   <h2>🛠️ Conocimientos Técnicos</h2>
 
   <h3>Lenguajes y Backend ⚙️</h3>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-
-  <br/>
-
+  <img src="https://skillicons.dev/icons?i=java,spring,js,python,mysql&theme=dark" />
+  
   <h3>Tecnologías y Herramientas 🛠️</h3>
-  <img src="https://skillicons.dev/icons?i=html,css,git,linux,vscode&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,git,linux,vscode&theme=dark" />
+  
   <br/>
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
-  <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
-  <br/>
+
   <img src="https://img.shields.io/badge/API_REST-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
   <img src="https://img.shields.io/badge/n8n-FF6D5A?style=for-the-badge&logo=n8n&logoColor=white" />
   <img src="https://img.shields.io/badge/NetSuite_ERP-003366?style=for-the-badge&logo=oracle&logoColor=white" />
