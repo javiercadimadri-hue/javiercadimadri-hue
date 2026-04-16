@@ -17,10 +17,10 @@
   <h2>🛠️ Conocimientos Técnicos</h2>
 
   <h3>Lenguajes y Backend ⚙️</h3>
-  <img src="https://skillicons.dev/icons?i=java,spring,js,python,mysql&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=java,spring,js,python,mysql&theme=dark&cache=ignore1" />
   
   <h3>Tecnologías y Herramientas 🛠️</h3>
-  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,git,linux,vscode&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=html,css,git,linux,vscode&theme=dark&cache=ignore1" />
   
   <br/>
 
